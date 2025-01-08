@@ -7,7 +7,7 @@ export function Navbar() {
                 <div>
                     <Link to="/">Maria Angelica Valdes</Link>
                 </div>
-                <div>
+                <div class="uppercase">
                     <Link class="pl-2" to="/projects">Projects</Link>
                     <Link class="pl-2" to="/certifications">Certifications</Link>
                     <Link class="pl-2" to="/contact">Contact Me</Link>
